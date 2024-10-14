@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋! My name is Matheus and I am a Systems Analysis and Development student at FMU</h1>
+<h2 align="left">Hello 👋! My name is Matheus and I am a Systems Analysis and Development student at FMU</h2>
 
 ###
 
